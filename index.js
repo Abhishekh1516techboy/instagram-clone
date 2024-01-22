@@ -160,7 +160,7 @@ let arr = [
         pMsg:"contact me for Web Development🔥",
     },
     {
-        post: "assets/images/srikrishna.webp",
+        post: "assets/images/sriramji.webp",
         dp: "assets/images/trisha.webp",
         adminDP:"assets/images/admin.webp",
         story: "assets/videos/11.mp4",
